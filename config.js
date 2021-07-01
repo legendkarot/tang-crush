@@ -1,8 +1,8 @@
 const CONFIG = {
     introTitle: 'Bé cưng à!',
-    introDesc: `Những ngôi sao lấp lánh,
-        Trên bầu trời lung linh,
-        Chỉ có một mình cậu,
+    introDesc: `Những ngôi sao lấp lánh, </br>
+        Trên bầu trời lung linh,</br>
+        Chỉ có một mình cậu,</br>
         Làm tim tớ rung rinh.`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
